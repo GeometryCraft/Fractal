@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\P222310546TM\P222310546TM\obj\Debug\net6.0-windows\P222310546TM.Form1.resources
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\P222310546TM\P222310546TM\obj\Debug\net6.0-windows\P222310546TM.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\P222310546TM\P222310546TM\obj\Debug\net6.0-windows\P222310546TM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\P222310546TM\P222310546TM\obj\Debug\net6.0-windows\P222310546TM.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\P222310546TM\P222310546TM\obj\Debug\net6.0-windows\P222310546TM.AssemblyInfo.cs
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\P222310546TM\P222310546TM\obj\Debug\net6.0-windows\P222310546TM.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\P222310546TM\P222310546TM\bin\Debug\net6.0-windows\P222310546TM.exe
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\P222310546TM\P222310546TM\bin\Debug\net6.0-windows\P222310546TM.deps.json
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\P222310546TM\P222310546TM\bin\Debug\net6.0-windows\P222310546TM.runtimeconfig.json
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\P222310546TM\P222310546TM\bin\Debug\net6.0-windows\P222310546TM.dll
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\P222310546TM\P222310546TM\bin\Debug\net6.0-windows\P222310546TM.pdb
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\P222310546TM\P222310546TM\obj\Debug\net6.0-windows\P222310546TM.dll
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\P222310546TM\P222310546TM\obj\Debug\net6.0-windows\refint\P222310546TM.dll
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\P222310546TM\P222310546TM\obj\Debug\net6.0-windows\P222310546TM.pdb
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\P222310546TM\P222310546TM\obj\Debug\net6.0-windows\P222310546TM.genruntimeconfig.cache
+C:\Users\DELL\Documents\Visual Studio 2022\Projects\P222310546TM\P222310546TM\obj\Debug\net6.0-windows\ref\P222310546TM.dll
